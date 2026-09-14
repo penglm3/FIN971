@@ -1,0 +1,5 @@
+# Raw WRDS downloads are local-only.
+data/
+
+# macOS metadata
+.DS_Store
